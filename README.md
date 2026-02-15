@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** transitioning to **DevOps & Systems Programming**
 
-Currently building scalable applications at Zone01 Oujda | CP Club President | CTF Winner
+Currently building scalable applications at Zone01 Oujda
 
 ---
 
