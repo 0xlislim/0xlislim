@@ -10,11 +10,11 @@ Currently building scalable applications at Zone01 Oujda
 
 **Microservices & Full-Stack**
 - Production applications with Angular + Spring Boot
-- REST APIs handling 100+ concurrent users
+- REST APIs
 - 85% test coverage with CI/CD pipelines
 
 **Real-Time Systems**
-- WebSocket applications in Go (500+ req/sec)
+- WebSocket applications in Go
 - Concurrent backends with connection pooling
 - 40% server load reduction through optimization
 
